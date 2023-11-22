@@ -8,6 +8,11 @@
     font-weight: 400;
 }
 
+#cachorro-imagem{
+    width: 300px;
+    border: 3px black;
+}
+
 .principal{ 
     background-color: black;
     border: white;
