@@ -4,6 +4,15 @@
     border-color: rgb (0,0,0);
     border-style: dashed;
     margin: 10px;
-    color:white;
+    color: white;
     font-weight: 400;
+}
+
+.principal{ 
+    background-color: black;
+    border: white;
+    border-color: white;
+    border-style: double;
+    margin: 30px;
+    color: yellow;
 }
