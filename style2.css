@@ -13,6 +13,16 @@
     border: 3px black;
 }
 
+.Lista-links{
+    font-size: 30px;
+    color: blueviolet;
+}
+
+
+.Lista-links{
+    font-size: 40px;
+    color: greenyellow;
+}
 .principal{ 
     background-color: black;
     border: white;
