@@ -1,3 +1,28 @@
+#link{
+    font-size: 20px;
+    color: blue;
+    text-decoration: none;
+}
+#link:hover{
+    font-size: 25px;
+    color: yellow;
+    text-decoration:wavy;
+}
+#imagem-cachorros{
+    width: 100px;
+    border: solid 3px wheat;
+
+
+}
+
+
+
+
+
+
+
+
+
 
 .rodape{
     background-color:aqua;
